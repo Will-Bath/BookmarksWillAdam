@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Student/Projects/Bookmark_luke/spec/bookmark_spec.rb": [
+      "/Users/Student/Projects/BookmarksWillAdam/spec/bookmark_spec.rb": [
         1,
         null,
         1,
@@ -17,7 +17,7 @@
         null,
         null
       ],
-      "/Users/Student/Projects/Bookmark_luke/spec/features/bookmarks_spec.rb": [
+      "/Users/Student/Projects/BookmarksWillAdam/spec/features/bookmarks_spec.rb": [
         null,
         null,
         1,
@@ -30,7 +30,7 @@
         null,
         null
       ],
-      "/Users/Student/Projects/Bookmark_luke/spec/features/index_spec.rb": [
+      "/Users/Student/Projects/BookmarksWillAdam/spec/features/index_spec.rb": [
         null,
         null,
         1,
@@ -41,6 +41,6 @@
         null
       ]
     },
-    "timestamp": 1571729849
+    "timestamp": 1571750924
   }
 }
