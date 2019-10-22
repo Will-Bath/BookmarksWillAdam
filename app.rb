@@ -3,16 +3,17 @@
 require 'sinatra/base'
 require_relative './lib/bookmark'
 
+
 # This is bigboy class
 class BookmarkManager < Sinatra::Base
   get '/' do
-    erb(:index)
+    redirect '/bookmarks'
   end
 
   get '/bookmarks' do
+    p ENV
     @bookmarks = Bookmark.all
-
-    erb(:bookmarks)
+    erb(:index)
   end
 
   run! if app_file == $0

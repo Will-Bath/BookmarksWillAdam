@@ -1,8 +1,15 @@
+
+For bookmark_manager
 Step 1: Run the command psql
 Step 2: Create database using the psql command: CREATE DATABASE bookmark_manager;
 Step 3: Use \c bookmark_manager; command to connect to database
 Step 4: Run the query
 
+For bookmark_manager_test
+Step 1: Run the command psql
+Step 2: Create database using the psql command: CREATE DATABASE bookmark_manager_test;
+Step 3: Use \c bookmark_manager_test; command to connect to database
+Step 4: Run the query
 
 
 Completed stories

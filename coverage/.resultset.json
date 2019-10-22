@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Student/Projects/BookmarksWillAdam/spec/bookmark_spec.rb": [
+      "/Users/Student/Desktop/projects/bookmarks-adamWill/BookmarksWillAdam/spec/bookmark_spec.rb": [
         1,
         null,
         1,
@@ -9,6 +9,13 @@
         1,
         1,
         1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
         1,
         1,
         1,
@@ -17,23 +24,43 @@
         null,
         null
       ],
-      "/Users/Student/Projects/BookmarksWillAdam/spec/features/bookmarks_spec.rb": [
+      "/Users/Student/Desktop/projects/bookmarks-adamWill/BookmarksWillAdam/spec/features/bookmarks_spec.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/Student/Desktop/projects/bookmarks-adamWill/BookmarksWillAdam/spec/features/index_spec.rb": [
         null,
         null,
         1,
-        1,
-        1,
-        null,
         1,
         1,
         1,
         null,
         null
       ],
-      "/Users/Student/Projects/BookmarksWillAdam/spec/features/index_spec.rb": [
+      "/Users/Student/Desktop/projects/bookmarks-adamWill/BookmarksWillAdam/spec/features/viewing_bookmarks_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
         null,
         null,
         1,
+        1,
+        1,
+        null,
+        1,
+        null,
         1,
         1,
         1,
@@ -41,6 +68,6 @@
         null
       ]
     },
-    "timestamp": 1571750924
+    "timestamp": 1571755042
   }
 }
